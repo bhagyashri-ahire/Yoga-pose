@@ -1,0 +1,11 @@
+{
+  "title": "PRANA YOGA — AI Yoga Trainer",
+  "description": "Experience personalized yoga training with real-time AI feedback that analyzes your posture, corrects alignment, and tracks your progress.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
